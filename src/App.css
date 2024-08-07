@@ -1,0 +1,11 @@
+.App {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  place-content: center;
+  gap: 4rem;
+}
+.App > div {
+  border: 2px solid black;
+  padding: 1rem;
+}
